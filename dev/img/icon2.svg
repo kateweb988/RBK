@@ -1,0 +1,26 @@
+<svg width="164" height="129" viewBox="0 0 164 129" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="84" cy="72" r="45" stroke="#ED1C24" stroke-opacity="0.3" stroke-width="10"/>
+<path d="M8 61V65" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
+<path d="M8 71V75" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
+<path d="M11 68L15 68" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
+<path d="M1 68L5 68" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
+<path d="M153 96V101.714" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M153 110.286V116" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M157.286 106L163 106" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M143 106L148.714 106" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<circle cx="84" cy="72" r="40" fill="#ED1C24"/>
+<path d="M104 1V3.28571" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M104 8.71436V11.0001" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M106.714 6L109 6" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M99 6L101.286 6" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<rect x="34" y="66" width="68" height="53" rx="3" fill="#F69318" stroke="#212121" stroke-width="2"/>
+<path d="M24.5914 119.243C24.4336 118.611 24.911 118 25.5616 118H110.438C111.089 118 111.566 118.611 111.409 119.243L112.379 119.485L111.409 119.243L110.409 123.243C110.297 123.688 109.897 124 109.438 124H26.5616C26.1027 124 25.7027 123.688 25.5914 123.243L24.5914 119.243Z" fill="#F69318" stroke="#212121" stroke-width="2"/>
+<path d="M67 70H70.5" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M49.5 96.5L61.5 84.5" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M71 106L83 94" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M45 107L70 82" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M19.5 128H122.5" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M8 128H12" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M96 79L91 74L99 73L104 78V85L122 103H128L134 109V117L128 123H120L114 117V111L96 93H89L84 88L85 80L90 85L95 84L96 79Z" fill="#F69318" stroke="white" stroke-width="2" stroke-linejoin="round"/>
+<path d="M128 114.6L125.6 117H122.4L120 114.6V111.4L122.4 109H125.6L128 111.4V114.6Z" fill="#F69318" stroke="white" stroke-width="2"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg width="174" height="129" viewBox="0 0 174 129" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="94" cy="72" r="40" fill="#ED1C24"/>
+<circle cx="94" cy="72" r="45" stroke="#ED1C24" stroke-opacity="0.3" stroke-width="10"/>
+<path d="M8 61V65" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
+<path d="M8 71V75" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
+<path d="M11 68L15 68" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
+<path d="M1 68L5 68" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
+<path d="M114 1V3.28571" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M114 8.71436V11.0001" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M116.714 6L119 6" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M109 6L111.286 6" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M163 96V101.714" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M163 110.286V116" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M167.286 106L173 106" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M153 106L158.714 106" stroke="#212121" stroke-width="2" stroke-linecap="round"/>
+<path d="M12 128H16" stroke="#282828" stroke-width="2" stroke-linecap="round"/>
+<path d="M128 72V80C128 83.3137 125.314 86 122 86H103" stroke="white" stroke-width="2"/>
+<rect x="61" y="98" width="75" height="26" rx="3" fill="#F69318" stroke="#282828" stroke-width="2"/>
+<path d="M61 119H136" stroke="#282828" stroke-width="2" stroke-linecap="round"/>
+<path d="M125 105H128.5" stroke="#282828" stroke-width="2" stroke-linecap="round"/>
+<rect x="35" y="66" width="68" height="53" rx="3" fill="#F69318" stroke="#282828" stroke-width="2"/>
+<path d="M25.5914 119.243C25.4336 118.611 25.911 118 26.5616 118H111.438C112.089 118 112.566 118.611 112.409 119.243L113.379 119.485L112.409 119.243L111.409 123.243C111.297 123.688 110.897 124 110.438 124H27.5616C27.1027 124 26.7027 123.688 26.5914 123.243L25.5914 119.243Z" fill="#F69318" stroke="#282828" stroke-width="2"/>
+<path d="M68 70H71.5" stroke="#282828" stroke-width="2" stroke-linecap="round"/>
+<path d="M50.5 96.5L62.5 84.5" stroke="#282828" stroke-width="2" stroke-linecap="round"/>
+<path d="M72 106L84 94" stroke="#282828" stroke-width="2" stroke-linecap="round"/>
+<path d="M46 107L71 82" stroke="#282828" stroke-width="2" stroke-linecap="round"/>
+<path d="M23.5 128H149.5" stroke="#282828" stroke-width="2" stroke-linecap="round"/>
+<rect x="113" y="38" width="23" height="34" rx="3" fill="#F69318" stroke="white" stroke-width="2"/>
+<mask id="path-28-inside-1_19_26" fill="white">
+<rect x="116" y="41" width="17" height="20" rx="1"/>
+</mask>
+<rect x="116" y="41" width="17" height="20" rx="1" fill="#F69318" stroke="white" stroke-width="4" mask="url(#path-28-inside-1_19_26)"/>
+<path d="M117 64H120.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>
