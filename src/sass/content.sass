@@ -627,7 +627,8 @@ input:-moz-placeholder
    &__box 
       margin-bottom: 55px
    &__row 
-      justify-content: space-between
+      justify-content: flex-start
+      flex-wrap: wrap
       margin-top: 23px
    &__block 
       display: flex
@@ -765,5 +766,126 @@ input:-moz-placeholder
       border: 2px solid rgb(253, 165, 16)
       &:hover 
          color: rgb(253, 165, 16)
-            
-
+.close-popup
+   position: absolute
+   top: 20px
+   right: 20px
+   cursor: pointer
+   width: 20px
+   height: 20px
+   z-index: 20
+   transform: rotate(0deg)
+   transition: 0.5s
+   &:hover 
+      transform: rotate(90deg)
+.menu-btn, .menu
+   display: none
+.popup__bg
+   position: fixed
+   top: 0
+   left: 0
+   width: 100%
+   height: 100vh
+   background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(image.png)
+   backdrop-filter: blur(5.5px)
+   opacity: 0
+   pointer-events: none
+   transition: 0.5s all
+   overflow-y: auto
+   overflow-x: hidden
+.popup__bg.active
+   opacity: 1
+   pointer-events: all
+   transition: 0.5s all
+   z-index: 22
+.popup
+   position: absolute
+   top: 24rem
+   left: 50%
+   transform: translate(-50%, -50%) scale(0)
+   width: 500px
+   height: auto
+   transition: 0.5s all
+   padding: 50px 30px
+   margin-bottom: 20px
+   background: white
+   border: 1px solid rgba(255, 255, 255, 0.2)
+   border-radius: 26px
+   h2 
+      color: #212121
+      margin-bottom: 25px
+      text-align: left
+   form 
+      width: 100%
+      input 
+         width: 100%
+         background: rgba(4, 13, 27, 0.08)
+         height: 60px
+         border-radius: 10px
+         padding-left: 21px
+         color: #212121
+         font-family: 'Roboto'
+         font-size: 16px
+         font-weight: 400
+         line-height: 28px
+         margin-bottom: 15px
+         border: 2px solid transparent
+         &:focus 
+            border: 2px solid $or
+      button 
+         transition: 0.5s 
+         width: 180px
+.popup.active, .popup2.active, .popup3.active
+   transform: translate(-50%, -46%) scale(1)
+   transition: 0.5s all
+.custom-checkbox 
+   position: absolute
+   z-index: -1
+   opacity: 0
+.custom-checkbox+label
+   display: flex
+   align-items: flex-start
+   user-select: none
+   cursor: pointer
+   font-size: 24px
+   line-height: 33px
+   color: #FFFFFF
+.custom-checkbox+label::before
+   content: ''
+   display: inline-block
+   flex-shrink: 0
+   display: flex
+   flex-grow: 0
+   background-repeat: no-repeat
+   background-position: center center
+   margin-right: 10px
+   flex: 1 0 auto
+   border-radius: 3px
+   position: relative
+   top: -2px
+   width: 20px
+   height: 20px
+   border: 1px solid #212121
+   transition: 0.2s
+   max-width: 20px
+   max-height: 20px
+.custom-checkbox+label#check-error::before
+   display: none
+label#check-error
+   position: absolute
+   bottom: -16px
+   left: 87px
+   color: red
+.custom-checkbox:checked+label::before, .custom-checkbox:checked+label+label::before  
+   background: url(/img/check.svg) no-repeat center center
+.custom-checkbox + label
+   font-size: 14px
+   font-weight: 400
+   color: #212121
+   line-height: 132%
+   align-items: center
+   margin-left: 0
+   position: relative
+   left: 0px
+   margin-bottom: 30px
+   margin-top: 5px
